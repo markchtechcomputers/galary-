@@ -1,0 +1,9 @@
+FIREBASE_CONFIG: {
+    apiKey: "AIzaSy...",
+    authDomain: "manlung-shop.firebaseapp.com",
+    databaseURL: "https://manlung-shop-default-rtdb.firebaseio.com",
+    projectId: "manlung-shop",
+    storageBucket: "manlung-shop.appspot.com",
+    messagingSenderId: "123456789012",
+    appId: "1:123456789012:web:abcdef123456"
+}
